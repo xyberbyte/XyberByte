@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm XyberByte 👋
 
-<!--
-**xyberbyte/XyberByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm autodidact who enjoys exploring technology through hands-on projects and experimentation. 
+I'm currently using an Arduino Starter Kit to learn the fundamentals of electronics, programming, and problem-solving while discovering how ideas can become real projects.
+I'm still exploring different areas of technology to find what interests me most. I'm especially curious about energy, light, electronics, and embedded systems. 
+My goal is to keep learning, experimenting, and building — and eventually create whatever I can imagine.
 
-Here are some ideas to get you started:
+🌱 Currently Exploring
+Arduino and electronics
+Programming fundamentals
+Energy and light
+Hands-on experimentation
+Creative technology projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+Learning through experimentation
+Problem-solving
+Electronics fundamentals
+Programming fundamentals
+
+🎮 Outside of Tech
+Console gaming 🎮
+Online streaming 📺
+Matcha green lattes 🍵
+
+🚀 Projects
+Currently experimenting with my Arduino Starter Kit.
+
+More projects coming soon...
+
+📫 Contact
+TBA
+
+📺 Find Me
+YouTube: TBA
+Twitch: https://www.twitch.tv/xyberbyte
+
+😄 Current status: This profile is a work in progress as I continue learning, experimenting, and discovering what I want to build.
