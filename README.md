@@ -47,5 +47,6 @@ TBA
 
 😄 **Current status:** *Skill issue: currently being patched.*
 ---
+Curious → Experimenting → Learning → Building → Creating
 
 This profile is a work in progress as I continue learning, experimenting, and discovering what I want to build.
